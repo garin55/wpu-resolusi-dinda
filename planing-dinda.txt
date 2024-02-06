@@ -1,0 +1,9 @@
+Membuat web sites MY-jurnal
+-Membuat halaman utama (beranda)
+-Membuat profil
+-Membuat konten isi kontennya ada (jurusan,kejuruan)
+-Galeri
+-memasang hasil Karya Masing-Masing
+-kontak (sertakan informasi atau umpan balik)
+-Isi dalam web konten (judul,daftar isi,judul materi subjudul rangkuman / catatan, hasil karya)
+-tentang kami
