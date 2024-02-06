@@ -6,4 +6,6 @@ Membuat web sites MY-jurnal
 -memasang hasil Karya Masing-Masing
 -kontak (sertakan informasi atau umpan balik)
 -Isi dalam web konten (judul,daftar isi,judul materi subjudul rangkuman / catatan, hasil karya)
--tentang kami
+-isi galeri (daftar isi,tampilkan keseharian disekolah eskulbelajar dan bersama teman teman,keterangan foto,beri judul foto)
+-isi karta (upload karya kalian,halaman lebih jelas)
+-uji tautan setiap hari untuk melihat tombol berfungsi atau tidak.
