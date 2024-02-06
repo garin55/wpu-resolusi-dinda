@@ -1,7 +1,7 @@
 Membuat web sites MY-jurnal
 -Membuat halaman utama (beranda)
 -Membuat profil
--Membuat konten isi kontennya ada (jurusan,kejuruan)
+-Membuat konten isi kontennya ada (jurusan,kejuruan,matapelajaran)
 -Galeri
 -memasang hasil Karya Masing-Masing
 -kontak (sertakan informasi atau umpan balik)
@@ -9,3 +9,7 @@ Membuat web sites MY-jurnal
 -isi galeri (daftar isi,tampilkan keseharian disekolah eskulbelajar dan bersama teman teman,keterangan foto,beri judul foto)
 -isi karta (upload karya kalian,halaman lebih jelas)
 -uji tautan setiap hari untuk melihat tombol berfungsi atau tidak.
+-membuat sambutan
+-membuat tombol masuk
+-cakeresume.com
+-jika akan menambahkan gambar URL langkah nya(cari gambar,klik gambar,klik kanan,klik coy image address)
