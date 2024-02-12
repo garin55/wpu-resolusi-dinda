@@ -3,7 +3,10 @@
 javascript
 *E56
 *FRAMEWORKS
+^angular
+^react
 struktur data
 php framework
+^laravel
 interpy
 vlogs
