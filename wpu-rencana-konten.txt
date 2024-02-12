@@ -8,5 +8,4 @@ javascript
 struktur data
 php framework
 ^Laravel
-interpy
-vlogs
+
