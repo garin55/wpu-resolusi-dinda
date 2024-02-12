@@ -4,6 +4,7 @@ javascript
 *E56
 *FRAMEWORKS
 ^Vue
+^react
 struktur data
 php framework
 ^Laravel
