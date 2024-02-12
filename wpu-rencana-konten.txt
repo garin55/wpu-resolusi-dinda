@@ -3,10 +3,9 @@
 javascript
 *E56
 *FRAMEWORKS
-^angular
+^Vue
 ^react
 struktur data
 php framework
-^laravel
-interpy
-vlogs
+^Laravel
+
