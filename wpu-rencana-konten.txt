@@ -5,6 +5,7 @@ javascript
 *FRAMEWORKS
 ^Vue
 ^react
+^Angular
 struktur data
 php framework
 ^Laravel
